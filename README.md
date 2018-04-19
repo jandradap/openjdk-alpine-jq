@@ -1,1 +1,3 @@
-openjdk-alpine-jq
+# openjdk-alpine-jq [![](https://images.microbadger.com/badges/image/jorgeandrada/openjdk-alpine-jq:latest.svg)](https://microbadger.com/images/jorgeandrada/openjdk-alpine-jq:latest "Get your own image badge on microbadger.com")[![](https://images.microbadger.com/badges/version/jorgeandrada/openjdk-alpine-jq:latest.svg)](https://microbadger.com/images/jorgeandrada/openjdk-alpine-jq:latest "Get your own version badge on microbadger.com")[![](https://images.microbadger.com/badges/commit/jorgeandrada/openjdk-alpine-jq:latest.svg)](https://microbadger.com/images/jorgeandrada/openjdk-alpine-jq:latest "Get your own commit badge on microbadger.com")
+
+Openjdk Alpine with openssl, curl, bash and jq.
