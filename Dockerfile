@@ -21,4 +21,6 @@ RUN apk --update --clean-protected --no-cache add \
   openssl \
   bash \
   curl \
-  jq
+  jq \
+  py-pip \
+&& pip install ansi2html
