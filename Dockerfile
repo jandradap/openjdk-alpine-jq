@@ -24,4 +24,5 @@ RUN apk --update --clean-protected --no-cache add \
   jq \
   py-pip \
   colordiff \
+  file \
 && pip install ansi2html
